@@ -1,0 +1,30 @@
+﻿@using Cafe.BL.ViewModels
+@model UpdateChefVM
+
+
+
+<div class="card-body">
+    <h4 class="card-title">Create</h4>
+    <form asp-area="Admin" asp-controller="Chef" asp-action="Update" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="exampleInputUsername1">Name</label>
+            <input asp-for="Name" class="form-control" id="exampleInputUsername1" placeholder="Username">
+            <span asp-validation-for="Name"></span>
+
+        </div>
+        <div class="form-group">
+            <label for="exampleInputUsername1">sahe</label>
+            <input asp-for="Field" class="form-control" id="exampleInputUsername1" placeholder="Username">
+            <span asp-validation-for="Field"></span>
+
+        </div>
+        <div class="form-group">
+            <label for="exampleInputUsername1">Image upload</label>
+            <input asp-for="ImgFile" class="form-control" id="exampleInputUsername1" placeholder="Username">
+            <span asp-validation-for="ImgFile"></span>
+
+        </div>
+        <div asp-validation-summary="All"></div>
+        <button type="submit" class="btn btn-primary mr-2">Submit</button>
+    </form>
+</div>

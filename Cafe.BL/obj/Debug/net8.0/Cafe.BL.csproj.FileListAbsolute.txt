@@ -1,0 +1,15 @@
+C:\Users\I Novbe\source\repos\Cafe\Cafe.BL\bin\Debug\net8.0\Cafe.BL.deps.json
+C:\Users\I Novbe\source\repos\Cafe\Cafe.BL\bin\Debug\net8.0\Cafe.BL.dll
+C:\Users\I Novbe\source\repos\Cafe\Cafe.BL\bin\Debug\net8.0\Cafe.BL.pdb
+C:\Users\I Novbe\source\repos\Cafe\Cafe.BL\bin\Debug\net8.0\Cafe.DAL.dll
+C:\Users\I Novbe\source\repos\Cafe\Cafe.BL\bin\Debug\net8.0\Cafe.DAL.pdb
+C:\Users\I Novbe\source\repos\Cafe\Cafe.BL\obj\Debug\net8.0\Cafe.BL.csproj.AssemblyReference.cache
+C:\Users\I Novbe\source\repos\Cafe\Cafe.BL\obj\Debug\net8.0\Cafe.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\source\repos\Cafe\Cafe.BL\obj\Debug\net8.0\Cafe.BL.AssemblyInfoInputs.cache
+C:\Users\I Novbe\source\repos\Cafe\Cafe.BL\obj\Debug\net8.0\Cafe.BL.AssemblyInfo.cs
+C:\Users\I Novbe\source\repos\Cafe\Cafe.BL\obj\Debug\net8.0\Cafe.BL.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\source\repos\Cafe\Cafe.BL\obj\Debug\net8.0\Cafe.BL.csproj.Up2Date
+C:\Users\I Novbe\source\repos\Cafe\Cafe.BL\obj\Debug\net8.0\Cafe.BL.dll
+C:\Users\I Novbe\source\repos\Cafe\Cafe.BL\obj\Debug\net8.0\refint\Cafe.BL.dll
+C:\Users\I Novbe\source\repos\Cafe\Cafe.BL\obj\Debug\net8.0\Cafe.BL.pdb
+C:\Users\I Novbe\source\repos\Cafe\Cafe.BL\obj\Debug\net8.0\ref\Cafe.BL.dll

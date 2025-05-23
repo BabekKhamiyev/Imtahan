@@ -1,0 +1,14 @@
+C:\Users\I Novbe\source\repos\Cafe\Cafe.DAL\bin\Debug\net8.0\Cafe.DAL.deps.json
+C:\Users\I Novbe\source\repos\Cafe\Cafe.DAL\bin\Debug\net8.0\Cafe.DAL.runtimeconfig.json
+C:\Users\I Novbe\source\repos\Cafe\Cafe.DAL\bin\Debug\net8.0\Cafe.DAL.dll
+C:\Users\I Novbe\source\repos\Cafe\Cafe.DAL\bin\Debug\net8.0\Cafe.DAL.pdb
+C:\Users\I Novbe\source\repos\Cafe\Cafe.DAL\obj\Debug\net8.0\Cafe.DAL.csproj.AssemblyReference.cache
+C:\Users\I Novbe\source\repos\Cafe\Cafe.DAL\obj\Debug\net8.0\Cafe.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\source\repos\Cafe\Cafe.DAL\obj\Debug\net8.0\Cafe.DAL.AssemblyInfoInputs.cache
+C:\Users\I Novbe\source\repos\Cafe\Cafe.DAL\obj\Debug\net8.0\Cafe.DAL.AssemblyInfo.cs
+C:\Users\I Novbe\source\repos\Cafe\Cafe.DAL\obj\Debug\net8.0\Cafe.DAL.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\source\repos\Cafe\Cafe.DAL\obj\Debug\net8.0\Cafe.DAL.dll
+C:\Users\I Novbe\source\repos\Cafe\Cafe.DAL\obj\Debug\net8.0\refint\Cafe.DAL.dll
+C:\Users\I Novbe\source\repos\Cafe\Cafe.DAL\obj\Debug\net8.0\Cafe.DAL.pdb
+C:\Users\I Novbe\source\repos\Cafe\Cafe.DAL\obj\Debug\net8.0\Cafe.DAL.genruntimeconfig.cache
+C:\Users\I Novbe\source\repos\Cafe\Cafe.DAL\obj\Debug\net8.0\ref\Cafe.DAL.dll

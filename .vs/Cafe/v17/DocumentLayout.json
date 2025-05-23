@@ -1,0 +1,632 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|solutionrelative:cafe.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|solutionrelative:cafe.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|solutionrelative:cafe.mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|solutionrelative:cafe.mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75DDBE4-2856-4772-B8B8-3EE409F22123}|Cafe.BL\\Cafe.BL.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.bl\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75DDBE4-2856-4772-B8B8-3EE409F22123}|Cafe.BL\\Cafe.BL.csproj|solutionrelative:cafe.bl\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|solutionrelative:cafe.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|solutionrelative:cafe.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|solutionrelative:cafe.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|solutionrelative:cafe.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75DDBE4-2856-4772-B8B8-3EE409F22123}|Cafe.BL\\Cafe.BL.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.bl\\viewmodels\\registeraccountvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75DDBE4-2856-4772-B8B8-3EE409F22123}|Cafe.BL\\Cafe.BL.csproj|solutionrelative:cafe.bl\\viewmodels\\registeraccountvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|solutionrelative:cafe.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|solutionrelative:cafe.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.mvc\\areas\\admin\\views\\chef\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|solutionrelative:cafe.mvc\\areas\\admin\\views\\chef\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.mvc\\areas\\admin\\views\\chef\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|solutionrelative:cafe.mvc\\areas\\admin\\views\\chef\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.mvc\\areas\\admin\\views\\chef\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|solutionrelative:cafe.mvc\\areas\\admin\\views\\chef\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.mvc\\areas\\admin\\controllers\\chefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|solutionrelative:cafe.mvc\\areas\\admin\\controllers\\chefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|solutionrelative:cafe.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75DDBE4-2856-4772-B8B8-3EE409F22123}|Cafe.BL\\Cafe.BL.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.bl\\services\\chefservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75DDBE4-2856-4772-B8B8-3EE409F22123}|Cafe.BL\\Cafe.BL.csproj|solutionrelative:cafe.bl\\services\\chefservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.mvc\\areas\\admin\\views\\chef\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|solutionrelative:cafe.mvc\\areas\\admin\\views\\chef\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75DDBE4-2856-4772-B8B8-3EE409F22123}|Cafe.BL\\Cafe.BL.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.bl\\viewmodels\\createchefvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75DDBE4-2856-4772-B8B8-3EE409F22123}|Cafe.BL\\Cafe.BL.csproj|solutionrelative:cafe.bl\\viewmodels\\createchefvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75DDBE4-2856-4772-B8B8-3EE409F22123}|Cafe.BL\\Cafe.BL.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.bl\\viewmodels\\updatechefvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75DDBE4-2856-4772-B8B8-3EE409F22123}|Cafe.BL\\Cafe.BL.csproj|solutionrelative:cafe.bl\\viewmodels\\updatechefvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|solutionrelative:cafe.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|solutionrelative:cafe.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87CAB01-989E-4ED5-83A4-461D4F6212DC}|Cafe.DAL\\Cafe.DAL.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.dal\\cafe.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B87CAB01-989E-4ED5-83A4-461D4F6212DC}|Cafe.DAL\\Cafe.DAL.csproj|solutionrelative:cafe.dal\\cafe.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87CAB01-989E-4ED5-83A4-461D4F6212DC}|Cafe.DAL\\Cafe.DAL.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.dal\\models\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87CAB01-989E-4ED5-83A4-461D4F6212DC}|Cafe.DAL\\Cafe.DAL.csproj|solutionrelative:cafe.dal\\models\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87CAB01-989E-4ED5-83A4-461D4F6212DC}|Cafe.DAL\\Cafe.DAL.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.dal\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87CAB01-989E-4ED5-83A4-461D4F6212DC}|Cafe.DAL\\Cafe.DAL.csproj|solutionrelative:cafe.dal\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|solutionrelative:cafe.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|solutionrelative:cafe.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75DDBE4-2856-4772-B8B8-3EE409F22123}|Cafe.BL\\Cafe.BL.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.bl\\exceptions\\chefexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75DDBE4-2856-4772-B8B8-3EE409F22123}|Cafe.BL\\Cafe.BL.csproj|solutionrelative:cafe.bl\\exceptions\\chefexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87CAB01-989E-4ED5-83A4-461D4F6212DC}|Cafe.DAL\\Cafe.DAL.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87CAB01-989E-4ED5-83A4-461D4F6212DC}|Cafe.DAL\\Cafe.DAL.csproj|solutionrelative:cafe.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87CAB01-989E-4ED5-83A4-461D4F6212DC}|Cafe.DAL\\Cafe.DAL.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.dal\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87CAB01-989E-4ED5-83A4-461D4F6212DC}|Cafe.DAL\\Cafe.DAL.csproj|solutionrelative:cafe.dal\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87CAB01-989E-4ED5-83A4-461D4F6212DC}|Cafe.DAL\\Cafe.DAL.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.dal\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87CAB01-989E-4ED5-83A4-461D4F6212DC}|Cafe.DAL\\Cafe.DAL.csproj|solutionrelative:cafe.dal\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|solutionrelative:cafe.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.mvc\\cafe.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0F04F55-E183-499E-999B-CD596694624A}|Cafe.MVC\\Cafe.MVC.csproj|solutionrelative:cafe.mvc\\cafe.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75DDBE4-2856-4772-B8B8-3EE409F22123}|Cafe.BL\\Cafe.BL.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.bl\\cafe.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E75DDBE4-2856-4772-B8B8-3EE409F22123}|Cafe.BL\\Cafe.BL.csproj|solutionrelative:cafe.bl\\cafe.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87CAB01-989E-4ED5-83A4-461D4F6212DC}|Cafe.DAL\\Cafe.DAL.csproj|c:\\users\\i novbe\\source\\repos\\cafe\\cafe.dal\\migrations\\20250523105738_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87CAB01-989E-4ED5-83A4-461D4F6212DC}|Cafe.DAL\\Cafe.DAL.csproj|solutionrelative:cafe.dal\\migrations\\20250523105738_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Cafe.MVC\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Cafe.MVC\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T13:10:22.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Cafe.MVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Cafe.MVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T13:10:03.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.BL\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Cafe.BL\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.BL\\Services\\AccountService.cs",
+              "RelativeToolTip": "Cafe.BL\\Services\\AccountService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:54:06.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Cafe.MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Cafe.MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:53:08.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Cafe.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Cafe.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T12:24:14.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Cafe.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Cafe.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:26:35.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Cafe.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Program.cs",
+              "RelativeToolTip": "Cafe.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:31:39.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Cafe.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Cafe.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T10:27:11.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Cafe.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Cafe.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T13:11:00.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterAccountVM.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.BL\\ViewModels\\RegisterAccountVM.cs",
+              "RelativeDocumentMoniker": "Cafe.BL\\ViewModels\\RegisterAccountVM.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.BL\\ViewModels\\RegisterAccountVM.cs",
+              "RelativeToolTip": "Cafe.BL\\ViewModels\\RegisterAccountVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:02:57.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Areas\\Admin\\Views\\Chef\\Info.cshtml",
+              "RelativeDocumentMoniker": "Cafe.MVC\\Areas\\Admin\\Views\\Chef\\Info.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Areas\\Admin\\Views\\Chef\\Info.cshtml",
+              "RelativeToolTip": "Cafe.MVC\\Areas\\Admin\\Views\\Chef\\Info.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T12:31:32.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Areas\\Admin\\Views\\Chef\\Update.cshtml",
+              "RelativeDocumentMoniker": "Cafe.MVC\\Areas\\Admin\\Views\\Chef\\Update.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Areas\\Admin\\Views\\Chef\\Update.cshtml",
+              "RelativeToolTip": "Cafe.MVC\\Areas\\Admin\\Views\\Chef\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T12:37:28.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Areas\\Admin\\Views\\Chef\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cafe.MVC\\Areas\\Admin\\Views\\Chef\\Create.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Areas\\Admin\\Views\\Chef\\Create.cshtml",
+              "RelativeToolTip": "Cafe.MVC\\Areas\\Admin\\Views\\Chef\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T12:22:56.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Areas\\Admin\\Views\\Chef\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cafe.MVC\\Areas\\Admin\\Views\\Chef\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Areas\\Admin\\Views\\Chef\\Index.cshtml",
+              "RelativeToolTip": "Cafe.MVC\\Areas\\Admin\\Views\\Chef\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T12:05:58.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChefController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Areas\\Admin\\Controllers\\ChefController.cs",
+              "RelativeDocumentMoniker": "Cafe.MVC\\Areas\\Admin\\Controllers\\ChefController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Areas\\Admin\\Controllers\\ChefController.cs",
+              "RelativeToolTip": "Cafe.MVC\\Areas\\Admin\\Controllers\\ChefController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:04:45.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChefService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.BL\\Services\\ChefService.cs",
+              "RelativeDocumentMoniker": "Cafe.BL\\Services\\ChefService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.BL\\Services\\ChefService.cs",
+              "RelativeToolTip": "Cafe.BL\\Services\\ChefService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADgv0EAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:58:23.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Cafe.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Cafe.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:42:44.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateChefVM.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.BL\\ViewModels\\CreateChefVM.cs",
+              "RelativeDocumentMoniker": "Cafe.BL\\ViewModels\\CreateChefVM.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.BL\\ViewModels\\CreateChefVM.cs",
+              "RelativeToolTip": "Cafe.BL\\ViewModels\\CreateChefVM.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:00:16.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateChefVM.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.BL\\ViewModels\\UpdateChefVM.cs",
+              "RelativeDocumentMoniker": "Cafe.BL\\ViewModels\\UpdateChefVM.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.BL\\ViewModels\\UpdateChefVM.cs",
+              "RelativeToolTip": "Cafe.BL\\ViewModels\\UpdateChefVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:24:00.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Cafe.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Cafe.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAhwLAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T11:43:15.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cafe.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Cafe.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T11:42:55.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Cafe.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Cafe.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAJ4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T12:14:37.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Cafe.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.DAL\\Cafe.DAL.csproj",
+              "RelativeDocumentMoniker": "Cafe.DAL\\Cafe.DAL.csproj",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.DAL\\Cafe.DAL.csproj",
+              "RelativeToolTip": "Cafe.DAL\\Cafe.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T10:32:53.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Chef.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.DAL\\Models\\Chef.cs",
+              "RelativeDocumentMoniker": "Cafe.DAL\\Models\\Chef.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.DAL\\Models\\Chef.cs",
+              "RelativeToolTip": "Cafe.DAL\\Models\\Chef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:37:05.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.DAL\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Cafe.DAL\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.DAL\\Models\\BaseModel.cs",
+              "RelativeToolTip": "Cafe.DAL\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:37:24.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cafe.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Cafe.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAHwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T10:26:40.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Cafe.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Cafe.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T11:43:27.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Cafe.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Cafe.MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-23T11:41:14.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ChefException.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.BL\\Exceptions\\ChefException.cs",
+              "RelativeDocumentMoniker": "Cafe.BL\\Exceptions\\ChefException.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.BL\\Exceptions\\ChefException.cs",
+              "RelativeToolTip": "Cafe.BL\\Exceptions\\ChefException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:19:48.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.DAL\\Models\\AppRole.cs",
+              "RelativeDocumentMoniker": "Cafe.DAL\\Models\\AppRole.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.DAL\\Models\\AppRole.cs",
+              "RelativeToolTip": "Cafe.DAL\\Models\\AppRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:52:40.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.DAL\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Cafe.DAL\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.DAL\\Models\\AppUser.cs",
+              "RelativeToolTip": "Cafe.DAL\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:51:50.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Cafe.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\appsettings.json",
+              "RelativeToolTip": "Cafe.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T10:41:26.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250523105738_init.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.DAL\\Migrations\\20250523105738_init.cs",
+              "RelativeDocumentMoniker": "Cafe.DAL\\Migrations\\20250523105738_init.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.DAL\\Migrations\\20250523105738_init.cs",
+              "RelativeToolTip": "Cafe.DAL\\Migrations\\20250523105738_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:57:39.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Cafe.MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Cafe.MVC.csproj",
+              "RelativeDocumentMoniker": "Cafe.MVC\\Cafe.MVC.csproj",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.MVC\\Cafe.MVC.csproj",
+              "RelativeToolTip": "Cafe.MVC\\Cafe.MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T10:34:20.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Cafe.BL.csproj",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.BL\\Cafe.BL.csproj",
+              "RelativeDocumentMoniker": "Cafe.BL\\Cafe.BL.csproj",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.BL\\Cafe.BL.csproj",
+              "RelativeToolTip": "Cafe.BL\\Cafe.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T10:32:56.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Cafe.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Cafe\\Cafe.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Cafe.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:31:58.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

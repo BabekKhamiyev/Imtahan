@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cafe.MVC.props" />
+</Project>
